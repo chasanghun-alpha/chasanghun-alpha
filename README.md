@@ -1,10 +1,12 @@
 안녕하세요, 차상훈입니다 👋 / Hi, I'm Sanghoon Cha
 
-전자공학을 전공하며 IC/반도체 회로 설계, 특히 **방사선 내성 메모리(Radiation-Hardened Memory)** 를 중심으로 공부하고 있습니다.
-아날로그/디지털 회로 설계부터 반도체 소자 공정, 디지털 신호처리, 그리고 AI 도구 활용까지 폭넓게 다뤄왔습니다.
+전자공학을 전공하며 **아날로그/디지털 IC 회로 설계**를 중심으로 공부하고 있습니다.
+Hybrid LDO·Multistage Amplifier 같은 아날로그 회로부터 RISC-V 프로세서·Han-Carlson Adder·BNN Processor 같은 디지털 회로까지, Schematic → Layout → DRC/LVS → Post-layout 검증의 전체 설계 흐름을 직접 수행해왔습니다.
+여기에 반도체 소자 공정 시뮬레이션, 디지털 신호처리, AI 도구 활용 경험을 더해 폭넓게 다루고 있습니다.
 
-I'm an Electronics Engineering student focusing on IC/semiconductor circuit design, with a primary research interest in **radiation-hardened memory**.
-My work spans analog/digital circuit design, semiconductor device/process simulation, digital signal processing, and applied AI tooling.
+I'm an Electronics Engineering student focusing on **analog and digital IC circuit design**.
+From analog blocks (hybrid LDO, multistage amplifier) to digital systems (RISC-V processor, Han-Carlson adder, BNN processor), I have carried out the full design flow: schematic → layout → DRC/LVS → post-layout verification.
+My work also spans semiconductor device/process simulation, digital signal processing, and applied AI tooling.
 
 \---
 
